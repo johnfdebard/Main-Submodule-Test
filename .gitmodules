@@ -1,0 +1,3 @@
+[submodule "branchDir/Submodule-Repo"]
+	path = branchDir/Submodule-Repo
+	url = https://github.com/johnfdebard/Submodule-Repo.git
